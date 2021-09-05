@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 8054-DAF0
+
+ Directory of C:\Users\bgpavanvittal\Desktop\myproject
+
+09/05/2021  01:58 PM    <DIR>          .
+09/05/2021  01:58 PM    <DIR>          ..
+09/05/2021  01:58 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  200,393,023,488 bytes free
